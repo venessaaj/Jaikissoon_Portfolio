@@ -1,7 +1,8 @@
 # Venessa Jaikissoon
 ## Graduation Year: 2026
 ## Major: Accounting  Minor: Legal Studies 
-### Introduction:  My name is Venessa Jaikissoon, and I am a junior pursuing a degree in accounting with a minor in legal studies. To broaden my knowledge and advance in my career, I intend to take the CPA exam after graduation to obtain my CPA license. 
+### Introduction:  
+#### My name is Venessa Jaikissoon, and I am a junior pursuing a degree in accounting with a minor in legal studies. To broaden my knowledge and advance in my career, I intend to take the CPA exam after graduation to obtain my CPA license. 
 
 ## Freshman Year Relevant Coursework
   -Principles of Management - This course emphasizes the principal functions of managers and serves as an introduction to business enterprises and organizations and the interrelationships of the broader economic, political, and social influences upon business.
@@ -29,6 +30,8 @@
   -Intro to Data Science -This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. 
   
   -Cost Management -This course will provide students with an overview of management and cost accounting and the differences between management and financial accounting. 
+
+
 
   
 ##### First update to README
