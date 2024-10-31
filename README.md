@@ -31,7 +31,33 @@
   
   -Cost Management -This course provides an overview of management and cost accounting and the differences between management and financial accounting. 
 
-
-
   
 ##### First update to README
+
+## Census Academy Achievements
+
+### Data Gem: How to Utilize Census Business Builder (CBB) to Analyze the Economic Effects of Disasters 
+I learned how to view and analyze the economic impact on specific sectors, industries, and products. I also learned how to select a disaster area to view relevant statistics and a variable, such as poverty rates, to compare the disaster area to the nation and state.
+
+![image](https://github.com/user-attachments/assets/c246101d-5daa-4986-a4cf-48c2fd8cd246)
+
+### Data Gem: How to Gain Insights on Disability Characteristics in America with U.S. Census Bureau Statistics
+I learned how to access and analyze key statistics on the U.S. population with disabilities, including insights on disability types, median earnings, and demographic characteristics. I also learned how to view data at the state level and how to compare datasets over time.
+
+![image](https://github.com/user-attachments/assets/ebfe51a9-b783-44d0-9dd7-14080583fb6d)
+
+### Data Gem: Get a First Look into Economic Census and Annual Business Survey Data Releases
+I learned how to find Economic Census data and Annual Business Survey tables as well as how to interpret the table values.
+
+![image](https://github.com/user-attachments/assets/7a39624d-2436-4e4b-b9b3-0ec4ac37ba97)
+
+### Data Gem: Discover the U.S. Foreign-Born Population by Place of Birth
+I learned how to view where the foreign-born population lives and how this has changed over the past decade for the nation, states, and counties. I also learned how to access a national profile that showcases year of entry, citizenship status, educational attainment, employment status, and occupation and how to compare these characteristics.
+
+![image](https://github.com/user-attachments/assets/739433f6-0055-4a22-b3a7-c257362a292b)
+
+### Data Gem: How to Find Population Counts for Detailed Race and Hispanic Origin Groups
+I learned how to map the largest and second largest race and ethnicity groups and American Indian and Alaska Native tribes and villages. Also, I learned how to rank the population size of detailed groups. 
+
+![image](https://github.com/user-attachments/assets/07d2bbe6-8603-4778-afa1-03b31ac2c70f)
+
